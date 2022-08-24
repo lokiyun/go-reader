@@ -1,0 +1,89 @@
+.context-menu {
+  position: absolute;
+  width: 152px;
+  padding: 4px;
+  box-shadow: 0 1px 4px rgba(28, 28, 32, 0.04),
+    0 8px 24px rgba(28, 28, 32, 0.12);
+  border-radius: 10px;
+  background-color: white;
+  visibility: hidden;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 0.2s ease, height 0.3s ease, visibility 0.3s ease;
+
+  margin: 0;
+
+  &-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  &-item {
+    line-height: 22px;
+    color: #25262b;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transition: background 0.3s ease;
+
+    &:hover {
+      background-color: #f5f5f6;
+    }
+
+    &-title {
+      text-indent: 1rem;
+    }
+  }
+
+  &-divider {
+    height: 1px;
+    background-color: #f5f5f6;
+  }
+
+  &-danger {
+    color: #ff6f66;
+  }
+}
+
+.is-active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.my-contextmenu-enter {
+  height: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.my-contextmenu-enter-active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.my-contextmenu-enter-done {
+  opacity: 1;
+  visibility: visible;
+}
+
+.my-contextmenu-exit {
+  opacity: 1;
+  visibility: visible;
+}
+
+.my-contextmenu-exit-acitve {
+  height: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.my-contextmenu-exit-done {
+  height: 0;
+  opacity: 0;
+  visibility: hidden;
+}

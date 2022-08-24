@@ -1,0 +1,58 @@
+.slider-component {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    width: 80%;
+}
+
+.slider-body {
+    flex: 1;
+}
+
+.slider-component .slider-body .range-input {
+    -webkit-appearance: none;
+    width: 100%;
+    vertical-align: middle;
+    cursor: pointer;
+    outline: none;
+    background-color: #a4b0be;
+}
+
+input[type="range" i] {
+    appearance: auto;
+    cursor: default;
+    color: rgb(16, 16, 16);
+    padding: initial;
+    border: initial;
+    margin: 2px;
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    width: 300px;
+    border-radius: 10px; /*这个属性设置使填充进度条时的图形为圆角*/
+}
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    height: 15px;
+    border-radius: 10px; /*将轨道设为圆角的*/
+    box-shadow: 0 1px 1px #ecf0f1, inset 0 .125em .125em #ecf0f1; /*轨道内置阴影效果*/
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 15px;
+    width: 15px;
+    margin-top: 0px; /*使滑块超出轨道部分的偏移量相等*/
+    background: #ffffff; 
+    border-radius: 50%; /*外观设置为圆形*/
+    border: solid 0.125em rgba(205, 224, 230, 1); /*设置边框*/
+    box-shadow: 0 .125em .125em #76797a; /*添加底部阴影*/
+}

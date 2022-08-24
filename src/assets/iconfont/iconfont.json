@@ -1,0 +1,317 @@
+{
+  "id": "2721836",
+  "name": "loki-reader",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "941656",
+      "name": "最小化",
+      "font_class": "zuixiaohua",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "941657",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "941658",
+      "name": "最大化",
+      "font_class": "zuidahua",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "12316107",
+      "name": "书签",
+      "font_class": "shuqian",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1004136",
+      "name": "txt",
+      "font_class": "txt",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "1420780",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1420782",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1420787",
+      "name": "eyes",
+      "font_class": "eyes",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1420808",
+      "name": "waiting",
+      "font_class": "waiting",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1420819",
+      "name": "next",
+      "font_class": "next",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1420820",
+      "name": "menu",
+      "font_class": "menu1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1420822",
+      "name": "资源 75",
+      "font_class": "ziyuan",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1420824",
+      "name": "like",
+      "font_class": "like",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1420827",
+      "name": "liked",
+      "font_class": "liked",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1420833",
+      "name": "imageb",
+      "font_class": "imageb",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1420834",
+      "name": "text",
+      "font_class": "text",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1420843",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "1420846",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1420855",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "1420874",
+      "name": "favorite",
+      "font_class": "favorite",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1420883",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1420890",
+      "name": "book",
+      "font_class": "book",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "1420905",
+      "name": "imagea",
+      "font_class": "imagea",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "1420914",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "1420915",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1424056",
+      "name": "del",
+      "font_class": "del",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "1424675",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "1505405",
+      "name": "jiahao",
+      "font_class": "jiahao",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "1508318",
+      "name": "prev",
+      "font_class": "prev",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "1532533",
+      "name": "prev2",
+      "font_class": "prev2",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "1637605",
+      "name": "打开epub文件ai",
+      "font_class": "dakaiepubwenjianai",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "4766474",
+      "name": "file-markdown",
+      "font_class": "file-markdown",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "6151241",
+      "name": "folder-plus",
+      "font_class": "folder-plus",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "6151252",
+      "name": "file-plus",
+      "font_class": "file-plus",
+      "unicode": "e808",
+      "unicode_decimal": 59400
+    },
+    {
+      "icon_id": "6507424",
+      "name": "漫画",
+      "font_class": "manhua",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "10971924",
+      "name": "book",
+      "font_class": "book1",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "12865693",
+      "name": "setting",
+      "font_class": "setting1",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "15838501",
+      "name": "menu",
+      "font_class": "menu2",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "1190400",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e8bd",
+      "unicode_decimal": 59581
+    },
+    {
+      "icon_id": "722170",
+      "name": "plus",
+      "font_class": "plussign",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "974265",
+      "name": "file",
+      "font_class": "file",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "1704667",
+      "name": "minus",
+      "font_class": "minus",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "7684978",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "11982708",
+      "name": "Settings, control, options",
+      "font_class": "Settingscontroloptions",
+      "unicode": "e9d3",
+      "unicode_decimal": 59859
+    }
+  ]
+}

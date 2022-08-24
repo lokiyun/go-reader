@@ -1,0 +1,16 @@
+.controls {
+  display: flex;
+  align-items: center;
+  &-item {
+    width: 3rem;
+    height: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+
+    &:hover {
+      background-color: #dddddd;
+    }
+  }
+}
